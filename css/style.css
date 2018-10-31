@@ -1,0 +1,72 @@
+#carouselExampleIndicators{
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    border: 1px solid rgba(0,0,0,0.47);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.d-block{
+    height: 600px;
+
+
+}
+@-ms-viewport {
+    width: device-width;
+    min-width: auto;
+    max-width: 1200px;
+}
+table{
+    margin-top: 2px;
+    padding: 3px;
+    width: 100%;
+}
+.card-img{
+    width: 600px;
+    height: 500px;
+}
+td{
+    border-radius: 50%;
+   text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+
+}
+
+
+.img-fluid{
+    border-top-left-radius: 32px;
+}
+td.col-sm-1{
+    border-radius: 50px;
+
+
+}
+ul{
+    font-size: 30px;
+    font-family: "Lato", sans-serif;
+    color: #0D47A1;
+}
+.card{
+    border: none;
+    text-decoration: none;
+}
+.card-title{
+border-radius: 6px;
+
+    background: linear-gradient(to right,rgba(255,238,59,0.82),rgba(172,181,255,0.82));
+}
+.brandMenu{
+  font-weight: bold;
+
+}
+h1.shadow-lg{
+    background: linear-gradient(to left,rgba(0,173,255,0.82),rgba(51,125,255,0.82));
+
+    border-radius: 38px;
+    overflow: hidden;
+    height: 60px;
+
+}
+h1.shadow-lg:hover{
+    background: rgba(44,0,115,0.71);
+}
