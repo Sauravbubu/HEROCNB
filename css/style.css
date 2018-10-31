@@ -61,7 +61,8 @@ border-radius: 6px;
 }
 h1.shadow-lg{
     background: linear-gradient(to left,rgba(0,173,255,0.82),rgba(51,125,255,0.82));
-
+ font-size:medium;
+    padding-top: 19px;
     border-radius: 38px;
     overflow: hidden;
     height: 60px;
